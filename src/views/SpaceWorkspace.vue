@@ -57,7 +57,7 @@ const handleChangeSpace = () => {
       <!-- Dashboard Widgets Grid -->
       <main class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 gap-6">
         <!-- Widget 1: Todo List -->
-        <section class="glass-panel col-span-2 rounded-3xl p-6 shadow-md flex flex-col justify-between hover:border-[#c8bcb0] transition-all duration-300">
+        <section class="glass-panel md:col-span-2 rounded-3xl p-6 shadow-md flex flex-col justify-between hover:border-[#c8bcb0] transition-all duration-300">
           <TodoList />
         </section>
 
