@@ -69,7 +69,7 @@ Make sure you have **Node.js** (version 16 or higher) and **npm** installed on y
 ---
 
 ## 📂 Project Folder Structure
-    ```bash
+
 src/
 ├── assets/          # Alarm audio files & static visual assets
 ├── components/      # Core widget components (TodoList.vue, PomodoroTimer.vue, MusicCorner.vue)
@@ -79,7 +79,6 @@ src/
 ├── App.vue          # Root component
 └── main.js          # Application entry point
 
-```
 
 ## 📄 License
 
