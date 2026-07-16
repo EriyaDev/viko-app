@@ -70,6 +70,7 @@ Make sure you have **Node.js** (version 16 or higher) and **npm** installed on y
 
 ## 📂 Project Folder Structure
 
+```text
 src/
 ├── assets/          # Alarm audio files & static visual assets
 ├── components/      # Core widget components (TodoList.vue, PomodoroTimer.vue, MusicCorner.vue)
