@@ -79,6 +79,7 @@ src/
 ├── views/           # Primary page views (LandingPage.vue & SpaceWorkspace.vue)
 ├── App.vue          # Root component
 └── main.js          # Application entry point
+```
 
 
 ## 📄 License
